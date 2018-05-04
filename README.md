@@ -2,13 +2,13 @@
 
 [begonaguereca@gmail.com](mailto:begonaguereca@gmail.com) | 310-780-1497 | [github.com/beognaguereca](https://github.com/begonaguereca) | [linkedin.com/in/begonaguereca](https://www.linkedin.com/in/begonaguereca/)
 
-**TECHNICAL SKILLS  ** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## TECHNICAL SKILLS \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Front-End:** Javascript, HTML5, CSS3, SASS, ReactJS, Redux, Webpack, AngularJS,
 
 **Back-End:** NodeJS, Express.js, MongoDB/Mongoose, PostgreSQL, Redis, AWS, SQL/ MySQL
 
-**PROJECTS  ** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## PROJECTS  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **YouTube Back-end Clone**
 
@@ -35,7 +35,7 @@ _ __Event Aggregator Web Application displaying events based on location and pre
 - Automated testing with Travis CI &amp; Mocha/Chai to improve the overall quality and stability of product
 - Managed team workflow through Trello ticketing system to ensure non-conflicting goals
 
-**WORK EXPERIENCE  ** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## WORK EXPERIENCE   \_\_\_\_\_\_\_\_\_\_\_\__\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 | **Data &amp; Research Analyst** | CA Child Care Resource &amp; Referral Network _ _
 - Wrote scripts to produce 30+ data maps using ArcGIS in order to help advocacy efforts
