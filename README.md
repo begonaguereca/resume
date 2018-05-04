@@ -49,7 +49,7 @@ _Event Aggregator Web Application displaying events based on location and prefer
 - Established metrics and analyzed 150+ CSEC juvenile case files in LAC court system
 - Managed and trained 12 interns to data mine CSEC court case files
 
-## EDUCATION\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## EDUCATION\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 - Hack Reactor - _Advanced Software Engineer Immersive_
 - UCLA - _M.A. Public Policy_
 - UCLA - _B.A. Political Science_
