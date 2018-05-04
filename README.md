@@ -8,7 +8,7 @@
 
 **Back-End:** NodeJS, Express.js, MongoDB/Mongoose, PostgreSQL, Redis, AWS, SQL/ MySQL
 
-## PROJECTS\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## PROJECTS\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **YouTube Back-end Clone**
 
@@ -35,7 +35,7 @@ _Event Aggregator Web Application displaying events based on location and prefer
 - Automated testing with Travis CI &amp; Mocha/Chai to improve the overall quality and stability of product
 - Managed team workflow through Trello ticketing system to ensure non-conflicting goals
 
-## WORK EXPERIENCE\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## WORK EXPERIENCE\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Data &amp; Research Analyst** | CA Child Care Resource &amp; Referral Network | San Francisco, CA | _2016 - 2017_ 
 - Wrote scripts to produce 30+ data maps using ArcGIS in order to help advocacy efforts
