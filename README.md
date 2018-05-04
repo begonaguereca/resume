@@ -53,4 +53,3 @@ _Event Aggregator Web Application displaying events based on location and prefer
 - Hack Reactor - _Advanced Software Engineer Immersive_
 - UCLA - _M.A. Public Policy_
 - UCLA - _B.A. Political Science_
- | San Francisco, 2018Los Angeles, 2015Los Angeles, 2012 |
