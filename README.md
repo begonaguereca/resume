@@ -21,7 +21,7 @@ _Simulated key functions YouTube to analyze the rate of video abandonment during
 
 **Open Sesame Game**
 
-_Distress Outreach Web Application for Domestic Violence Victims with an administrator interface and a chat client_
+_Distress Outreach Web Application for Domestic Violence Victims with an administrator interface and a chat client _
 
 - Constructed stateful React Components and integrated p5 JS library to render PacMan clone game play
 - Designed algorithm-based game logic to implement ghost AI
