@@ -12,7 +12,7 @@
 
 **YouTube Back-end Clone**
 
-_Simulated key functions YouTube to analyze the rate of video abandonment during work hours _
+_Simulated key functions YouTube to analyze the rate of video abandonment during work hours_
 
 - Designed microservice architecture using A/B testing for controlled data analysis
 - Handled over 10 million data entries of historical and live data to optimize querying and analytics under data load
@@ -21,7 +21,7 @@ _Simulated key functions YouTube to analyze the rate of video abandonment during
 
 **Open Sesame Game**
 
-_Distress Outreach Web Application for Domestic Violence Victims with an administrator interface and a chat client _
+_Distress Outreach Web Application for Domestic Violence Victims with an administrator interface and a chat client_
 
 - Constructed stateful React Components and integrated p5 JS library to render PacMan clone game play
 - Designed algorithm-based game logic to implement ghost AI
