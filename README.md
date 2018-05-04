@@ -29,7 +29,7 @@ _Distress Outreach Web Application for Domestic Violence Victims with an adminis
 
 **Event-ger**
 
-_ __Event Aggregator Web Application displaying events based on location and preferences_
+_Event Aggregator Web Application displaying events based on location and preferences_
 
 - Architected Express server to control MySQL queries in order to efficiently render client side pages
 - Automated testing with Travis CI &amp; Mocha/Chai to improve the overall quality and stability of product
