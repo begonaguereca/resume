@@ -37,13 +37,13 @@ _Event Aggregator Web Application displaying events based on location and prefer
 
 ## WORK EXPERIENCE\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Data &amp; Research Analyst** | CA Child Care Resource &amp; Referral Network| San Francisco, CA _2016 - 2017_ 
+**Data &amp; Research Analyst** | CA Child Care Resource &amp; Referral Network | San Francisco, CA | _2016 - 2017_ 
 - Wrote scripts to produce 30+ data maps using ArcGIS in order to help advocacy efforts
 - Designed 50+ infographics in order to positively impact advocacy efforts
 - Statistically analyzed 5000+ data points using SAS, a statical analysis software, looking at patterns in the statewide supply of child care in CA
 - Drove lobbying support for CA Assembly Bill A.B. 273, passing with unanimous support in both houses, impacting about half million families in CA
 
-**Data Analyst &amp; Project Manager** | LA County Commission on Human Relations| Los Angeles, CA _2014 - 2015_
+**Data Analyst &amp; Project Manager** | LA County Commission on Human Relations | Los Angeles, CA |  _2014 - 2015_
 - Produced 16+ data maps showing arrest hot spots and demographic characteristics of the areas where commercially sex trafficked children (CSEC) originate
 - Quantitatively analyzed 2500+ data points of CSEC characteristics using STATA
 - Established metrics and analyzed 150+ CSEC juvenile case files in LAC court system
